@@ -3,18 +3,6 @@
 Use these first. Prefer primary/official sources, then reputable specialist
 outlets. Fetch the page to confirm dates and details.
 
-## Steam Deck UK stock (on request only — not in the default briefing)
-
-- Run `scripts/steamdeck_uk.sh` (Valve inventory API, `country_code=GB`).
-- Store page: <https://store.steampowered.com/steamdeck>
-- Known retail package IDs (new hardware):
-  - 512GB OLED — `1202542`
-  - 1TB OLED — `1202547`
-  - 64GB LCD — `903905`
-  - 256GB LCD — `903906`
-  - 512GB LCD — `903907`
-- Refurbished units are a separate program; only mention if the user asks.
-
 ## Video games — new on Steam
 
 - New releases search (GB/English) — **primary**, parse titles and release dates
